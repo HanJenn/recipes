@@ -2,8 +2,7 @@
 ## Ingredients
 * avocado
 * lime
-*salt
-## Instructions
-<<<<<<< HEAD
+* salt
+## InstructionsD
 * peel the avocados and put them into a bowl.
 
